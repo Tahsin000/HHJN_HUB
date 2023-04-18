@@ -151,10 +151,10 @@
 
 ## Desktop UI
 
-![img-1](./src/assets/Desktop.png)
+![img-1](./my-app/src/assets/Desktop.png)
 
 ## Mobile UI
 
-![img-1](./src/assets/Mobile.png)
+![img-1](./my-app/src/assets/Mobile.png)
 
 </div>
